@@ -49,6 +49,7 @@
   <project path="device/samsung/n7100" name="BeerGang/android_device_samsung_n7100" />
   <project path="device/samsung/tuna" name="CyanogenMod/android_device_samsung_tuna" />
   <project path="device/lge/mako" name="BeerGang/android_device_lge_mako" />
+  <project path="device/oppo/find5" name="BeerGang/android_device_oppo_find5" />
   <project path="device/ti/panda" name="CyanogenMod/android_device_ti_panda" groups="device" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" remote="aosp" revision="refs/tags/android-4.2.2_r1" />
   <project path="external/aac" name="CyanogenMod/android_external_aac" />
