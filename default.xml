@@ -257,7 +257,7 @@
   <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
   <project path="hardware/msm7k" name="CyanogenMod/android_hardware_msm7k" />
   <project path="hardware/qcom/audio" name="CyanogenMod/android_hardware_qcom_audio" />
-  <project path="hardware/qcom/audio-caf" name="CyanogenMod/android_hardware_qcom_audio-caf" />
+  <project path="hardware/qcom/audio-caf" name="benjamingoodwin/android_hardware_qcom_audio-caf" revision="CAFWIP" />
   <project path="hardware/qcom/bt" name="CyanogenMod/android_hardware_qcom_bt" />
   <project path="hardware/qcom/camera" name="CyanogenMod/android_hardware_qcom_camera" />
   <project path="hardware/qcom/display" name="XYAOSP/android_hardware_qcom_display" />
@@ -278,7 +278,7 @@
   <project path="hardware/ti/wpan" name="CyanogenMod/android_hardware_ti_wpan" />
   <project path="kernel/asus/grouper" name="CyanogenMod/android_kernel_asus_grouper" />
   <project path="kernel/lge/mako" name="benjamingoodwin/lge-kernel-mako" revision="cm-10.1-staging" />
-  <project path="kernel/oppo/find5" name="CyanogenMod/android_kernel_oppo_find5" />
+  <project path="kernel/oppo/find5" name="BeerGang/android_kernel_oppo_find5" />
   <project path="kernel/samsung/smdk4210" name="CyanogenMod/android_kernel_samsung_smdk4210" />
   <project path="kernel/samsung/smdk4412" name="CyanogenMod/android_kernel_samsung_smdk4412" />
   <project path="kernel/samsung/tuna" name="CyanogenMod/android_kernel_samsung_tuna" />
