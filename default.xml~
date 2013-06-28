@@ -433,5 +433,5 @@
   <project path="prebuilts/misc" name="Mustaavalkosta/android_prebuilts_misc" revision="jb-mv" />
   <project path="vendor/htc/ace" name="Mustaavalkosta/android_vendor_htc_ace" revision="cm-10.1" />
   <project path="vendor/qcom/proprietary" name="Mustaavalkosta/android_vendor_qcom_proprietary" revision="cm-10.1" />
-  
+  <project path="vendor/cm" name="AndyFox2013/jellybeer_ace_conf" revision="cm-10.1" />
 </manifest>
